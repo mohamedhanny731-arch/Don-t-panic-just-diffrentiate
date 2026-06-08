@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    background:#0F172A;
+    background-image: url("blank-white-notepaper-design-vector_53876-161343.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    font-family: "Inter Tight", sans-serif;
+
+}
+
+.nabar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 40px;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    font-size: 27px;
+    position: sticky;
+    top: 0;
+    color:#F8FAFC;
+    background: rgba(225, 232, 240, 0.75);
+    height: 65px;
+
+}
+.sections{
+    display: flex;
+    gap: 215px;
+    list-style: none;
+}
+
+.sections a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 27px;
+    color: #34495E;
+    padding: 10px;
+    border-radius: 20px;
+}
+.sections a:hover{
+    background: #5B8DEF;
+    color:#F8FAFC;
+}
+.integbox {
+    margin: 50px auto;
+    width: 800px;
+    height: 500px;
+    padding: 30px;
+    background: rgba(92, 117, 146, 0.88);
+    backdrop-filter: blur (10px);
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+    margin-bottom: 50px;
+    
+}
+.integbox h2{
+    margin: 0 0 10px 0;
+    font-size:50px;
+    font-weight: 600;
+    text-align: center;
+    color: #B8D8FF;
+}
+.integbox p{
+    padding-top: 25px;
+    margin: 0;
+    opacity: 0.8;
+    font-size: 35px;
+    color: #E2E8F0;
+    font-family: "Space Grotesk", sans-serif;
+}
+.integbox:hover {
+    transform: scale(1.05);
+}
+.logo img{
+    height: 50px;
+    width: auto;
+    display: block;
+}
+.textt {
+    margin-top: 30px;
+    padding: 25px;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+.inputt {
+    width: 100%;
+    padding: 18px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    font-family: inherit;
+    background: rgba(255,255,255, 0.15);
+    color: white;
+    outline: none;
+    box-sizing: border-box;
+}
+.inputt::placeholder {
+    color: rgba(255, 255, 255, 0.65);
+}
+.inputt {
+    box-shadow: 0 0 0 3px rgba(147,197,253,0.4);
+}
+.solve{
+    margin-top: 20px;
+    padding: 14px 30px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: #93C5FD ;
+    color: #0F172A;
+}
