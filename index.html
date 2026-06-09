@@ -16,14 +16,14 @@
     <nav class="nabar">
     <div class="logo"><img src="calculus-logo-icon-svg-download-png-1535209-removebg-preview.png"></div>
     <ul class="sections">
-        <li><a href="#">Integrate it !</a></li>
-        <li><a href="#">Differentiate it !</a></li>
-        <li><a href="#">Ur Guide</a></li>
-        <li><a href="#">Calculator</a></li>
+        <li><a href="#integration">Integrate it !</a></li>
+        <li><a href="#Differentiation">Differentiate it !</a></li>
+        <li><a href="ur guide.html">Ur Guide</a></li>
+        <li><a href="calculator.html">Calculator</a></li>
 
     </ul>
     </nav>
-    <div class="integbox">
+    <div class="integbox" id="integration">
         <h2>Integration Calculator</h2>
         <p>Integration is made easy, come on u don't have to make by parts anymore or search for the multiple technniques to solve ur integration question just input ur expression down here.</p>
         <div class="textt">
@@ -37,11 +37,18 @@
             <button class="solve">
                 Calculate
             </button>
+            <div class="answer">
+                <h3>Answer</h3>
+                <div class="content">
+                        Waiting for input 
+                </div>
+
+            </div>
 
 
         </div>
     </div>
-        <div class="integbox">
+        <div class="integbox" id="Differentiation">
             <h2>Differentiation Calculator</h2>
             <p>Don't Panic just Differentiate, I know Differentiation is bit easier than integration, but come on u can input ur large expression down here to get an instant answer.</p>
             <div class="textt">
@@ -54,9 +61,18 @@
                 <button class="solve">
                     Calculate
                 </button>
+                <div class="answer">
+                    <h3>Answer</h3>
+                    <div class="content">
+                        Waiting for input 
+
+                    </div>
+
+                </div>
             </div>
 
         </div>
     </div> 
+<script src="script.js"></script>
 </body>
 </html>
