@@ -11,4 +11,7 @@ About:
 3- A third section named "ur guide" that is a complete calculus study guide beginning with the textbooks, youtube videos to watch and so on
 4-Finally a simple calculator for simple math stuff.
 
+images:
+<img width="1897" height="969" alt="Screenshot 2026-06-10 160001" src="https://github.com/user-attachments/assets/4e7dbc0f-1738-4124-8c16-678285db2180" />
+
 
