@@ -13,5 +13,10 @@ About:
 
 images:
 <img width="1897" height="969" alt="Screenshot 2026-06-10 160001" src="https://github.com/user-attachments/assets/4e7dbc0f-1738-4124-8c16-678285db2180" />
+<img width="1846" height="868" alt="Screenshot 2026-06-10 115252" src="https://github.com/user-attachments/assets/880d6ee5-a5c9-4920-9d0d-fba0322f8a33" />
+<img width="1876" height="829" alt="Screenshot 2026-06-08 153448" src="https://github.com/user-attachments/assets/489849f2-30d4-4d1c-883f-0b1a926b6a8f" />
+<img width="1890" height="916" alt="Screenshot 2026-06-10 115244" src="https://github.com/user-attachments/assets/cfdb4c4b-0378-451c-bd31-9e5bf37fc0dc" />
+
+
 
 
