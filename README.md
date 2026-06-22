@@ -2,7 +2,7 @@
 
 Description:
 
-This is a my dream calculus calculator to make my hard integral and differentation easy go on try it in addition to a quick calculus study guide and a simple calculator.
+- This is a my dream calculus calculator to make my hard integral and differentation easy go on try it in addition to a quick calculus study guide and a simple calculator.
 
 About:
 
