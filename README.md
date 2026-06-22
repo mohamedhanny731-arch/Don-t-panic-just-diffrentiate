@@ -18,7 +18,7 @@ About:
 Features:
 - Integrate ur expression
 - Differentiate ur expression
-- calculate any simple math stuff
+- calculate any simple math stuff.
 - A complete guide to study calculus
   
 Challenges:
