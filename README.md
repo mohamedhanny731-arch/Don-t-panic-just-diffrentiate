@@ -14,18 +14,19 @@ About:
 
 - 4-Finally a simple calculator for simple math stuff.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
 - Integrate ur expression
 - Differentiate ur expression
 - calculate any simple math stuff.
 - A complete guide to study calculus
-  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Challenges:
 
 - I spent hard time dealing with the js code for the calculators bc it is extremely case sensitive to expression
 - I had my calculator always showing error message and I found that problem fixed it cuz I forced it to show error somehow
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 images:
 - Integral Calculator
 <img width="1897" height="969" alt="Screenshot 2026-06-10 160001" src="https://github.com/user-attachments/assets/4e7dbc0f-1738-4124-8c16-678285db2180" />
